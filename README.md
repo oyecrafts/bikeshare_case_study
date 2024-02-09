@@ -37,4 +37,4 @@ Please note that I do not own the dataset and all credit for the data goes to it
 ## Questions or Feedback
 If you have any questions or feedback regarding this analysis, feel free to reach out. Your insights and suggestions are valuable for refining our approach and improving our results.
 
-Notes datasets can be acessed from [Divvy_Trips_2019_Q1.zip](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q1.zip) and [Divvy_Trips_2019_Q1.zip](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2020_Q1.zip)
+Notes datasets can be acessed from [Divvy_Trips_2019_Q1.zip](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q1.zip) and [Divvy_Trips_2020_Q1.zip](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2020_Q1.zip)
