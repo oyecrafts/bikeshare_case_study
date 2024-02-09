@@ -32,7 +32,9 @@ Our task is to answer the following questions:
 
 Attached to this repository is an Exploratory Data Analysis (EDA) document that provides an in-depth explanation of all the analysis conducted on the dataset. The EDA includes detailed insights, visualizations, and interpretations of the data, offering a comprehensive overview of the dataset.
 
-Please note that I do not own the dataset and all credit for the data goes to its respective owners.
+Please note that I do not own the dataset and all credit for the data goes to its respective owners:Motivate International.
 
 ## Questions or Feedback
 If you have any questions or feedback regarding this analysis, feel free to reach out. Your insights and suggestions are valuable for refining our approach and improving our results.
+
+Notes datasets can be acessed from [Divvy_Trips_2019_Q1.zip](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q1.zip) and [Divvy_Trips_2019_Q1.zip](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2020_Q1.zip)
