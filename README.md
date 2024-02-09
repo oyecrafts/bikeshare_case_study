@@ -1,28 +1,38 @@
 # Cyclistic Bike-Share Analysis Case Study
-Welcome to the Cyclistic Bike-Share Analysis Case Study!
-In this case study, you'll step into the shoes of a junior data analyst at Cyclistic, a fictional bike-share company based in Chicago. Your role is to analyze historical bike trip data to answer key business questions and provide insights that will inform the company's marketing strategy.
+Welcome to the Cyclistic bike-share analysis case study! In this project, we analyze the bike-share data from Cyclistic, a fictional bike-share company in Chicago. As a junior data analyst on the marketing analytics team, our goal is to understand how annual members and casual riders use Cyclistic bikes differently. This analysis will inform our marketing strategy to convert casual riders into annual members.
 
 ## Scenario
-Cyclistic is a bike-share program with over 5,800 bicycles and 600 docking stations across Chicago. The company offers various types of bikes, including reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders with specific preferences. The majority of riders use traditional bikes for leisure, while about 30% use them for daily commuting.
-
-Your manager, Lily Moreno, the director of marketing, has tasked you with understanding the differences in bike usage between annual members and casual riders. The goal is to design a new marketing strategy aimed at converting casual riders into annual members. Your recommendations will be presented to Cyclistic's executive team for approval.
+Cyclistic is a bike-share program in Chicago offering over 5,800 bicycles and 600 docking stations. The company provides traditional bikes as well as reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can't use a standard two-wheeled bike. Our users primarily ride for leisure, but about 30% use the bikes to commute to work each day.
 
 ## Characters and Teams
-* Cyclistic: The bike-share program you're analyzing.
-* Lily Moreno: Your manager and the director of marketing at Cyclistic.
-* Cyclistic Marketing Analytics Team: Your team responsible for collecting, analyzing, and reporting data to guide the company's marketing strategy.
-* Cyclistic Executive Team: The decision-makers who will approve your marketing recommendations.
+Lily Moreno: Director of Marketing and our manager, responsible for developing campaigns and initiatives to promote the bike-share program.
+Cyclistic Marketing Analytics Team: A team of data analysts responsible for collecting, analyzing, and reporting data to guide Cyclistic's marketing strategy.
+Cyclistic Executive Team: The executive team that will decide whether to approve the recommended marketing program.
+About the Company
+Cyclistic launched its bike-share offering in 2016, growing to a fleet of 5,824 bicycles across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. Cyclistic's pricing plans include single-ride passes, full-day passes, and annual memberships. Annual members are much more profitable than casual riders, making them a key focus for future growth.
 
-## About the Company
-Cyclistic launched its bike-share program in 2016 and has since grown to become a significant player in the Chicago mobility landscape. The program's flexibility in pricing plans, including single-ride passes, full-day passes, and annual memberships, has attracted a diverse customer base.
+## Business Task
+Our task is to answer the following questions:
 
-## The Business Task
-Your primary task is to answer the question: How do annual members and casual riders use Cyclistic bikes differently? Your analysis will include:
+* How do annual members and casual riders use Cyclistic bikes differently?
+* Why would casual riders buy Cyclistic annual memberships?
+* How can Cyclistic use digital media to influence casual riders to become members?
+* We'll start by analyzing how annual members and casual riders use Cyclistic bikes differently, aiming to produce a report with clear insights and recommendations based on our analysis.
 
-## Describing all data sources used.
-* Documenting any data cleaning or manipulation.
-Summarizing your analysis and key findings.
-Presenting supporting visualizations.
-Offering your top three recommendations based on your analysis.
-Getting Started
-To begin the analysis, download or clone this repository and refer to the provided Jupyter Notebook or R script to follow along with the data analysis process.
+## Deliverables
+* Clear Statement of Business Task: Identifying the key question we aim to answer.
+* Data Sources: Description of the data used for analysis.
+* Data Cleaning and Manipulation: Documentation of any cleaning or manipulation of data performed.
+* Analysis Summary: A summary of our analysis findings.
+* Supporting Visualizations and Key Findings: Visualizations and key insights derived from our analysis.
+* Recommendations: Our top three recommendations based on the analysis.
+
+
+## Exploratory Data Analysis (EDA)
+
+Attached to this repository is an Exploratory Data Analysis (EDA) document that provides an in-depth explanation of all the analysis conducted on the dataset. The EDA includes detailed insights, visualizations, and interpretations of the data, offering a comprehensive overview of the dataset.
+
+Please note that I do not own the dataset and all credit for the data goes to its respective owners.
+
+## Questions or Feedback
+If you have any questions or feedback regarding this analysis, feel free to reach out. Your insights and suggestions are valuable for refining our approach and improving our results.
